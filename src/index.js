@@ -1,0 +1,1 @@
+require('htmxx')('/src/routes');
